@@ -1,2 +1,2 @@
-# crypto
-Cryptography assignment on Block Chain implementation.
+# CRYPTOGRAPHY PROJECT
+A coursework project on a basic implementation of Block Chain for voting.
